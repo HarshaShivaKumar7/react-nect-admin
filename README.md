@@ -1,6 +1,6 @@
 # React Next.js Admin Panel
 
-![React Next.js Admin Panel](link_to_image)
+![React Next.js Admin Panel](https://github.com/HarshaShivaKumar7/react-next-admin/blob/main/public/images/Screenshot%202023-10-05%20192334.png)
 
 Welcome to the React Next.js Admin Panel, a modern and feature-rich admin dashboard built with React and Next.js. This project provides a solid foundation for creating powerful web applications with a clean and intuitive user interface.
 
