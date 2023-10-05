@@ -38,7 +38,6 @@ const UserLayout = ({ children }) => {
           rel='noreferrer'
           href='#'
         >
-          <img width={230} alt='upgrade to premium' src={`/images/misc/upgrade-banner-${settings.mode}.png`} />
         </a>
       </Box>
     )

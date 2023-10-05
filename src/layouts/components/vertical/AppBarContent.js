@@ -54,11 +54,7 @@ const AppBarContent = props => {
             sx={{ mr: 4, display: 'flex' }}
             href='#'
           >
-            <img
-              height={24}
-              alt='github stars'
-              src='#'
-            />
+            
           </Box>
         )}
         <ModeToggler settings={settings} saveSettings={saveSettings} />
